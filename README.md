@@ -16,4 +16,5 @@ saida=remove(foto).save("eusemfundo.png") # a saída da foto sem fundo
 
 
 ![i](https://user-images.githubusercontent.com/91196904/210466384-79cc12a4-1e33-4e3c-b223-6bdab73975ff.png)
-![eu](https://user-images.githubusercontent.com/91196904/210466388-d307c85b-ff4c-445b-8c31-a008f07286fd.png)
+![i am](https://user-images.githubusercontent.com/91196904/210466487-ee59f68a-fbb8-4ff3-bbf4-f8c1d6579e03.png)
+
