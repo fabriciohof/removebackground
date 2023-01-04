@@ -1,6 +1,3 @@
-
- removebackground
-
 Como remover o fundo de uma foto no Python
 
 
