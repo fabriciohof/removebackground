@@ -6,6 +6,7 @@ pip install rembg
 pip install Pillow
 
 
+
 from rembg import remove
 
 from PIL import Image
